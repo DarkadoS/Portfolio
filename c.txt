@@ -1,0 +1,14 @@
+SPOJ
+Probably one of the most popular sites among the coders, it has thousands of problems with varying difficulty and whenever you are stuck on a problem just google the name of that problem and you will surely find an editorial or a solution .
+
+
+CODEFORCES
+Codeforces on an average hosts ten short contests in a month with duration between 2–3 hours. As the name suggests, Educational Rounds are a great source for learning.
+
+
+CODECHEF
+Codechef hosts three main contests in a month-Long challenge, Cook-off and Lunchtime. Long challenge has eight problems with difficulty increasing after each question and you have ten days to solve them. Long challenge is a great source for learning new concepts and if you give them sincerely you are bound to learn at least one new thing.
+
+
+HACKEREARTH
+Hackerearth provides topic wise questions which helps you in strengthening a particular topic. It also has a tutorial at the start of each topic which covers its basic concepts.
